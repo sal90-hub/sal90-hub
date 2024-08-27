@@ -1,8 +1,8 @@
 ![nugget](https://github.com/user-attachments/assets/1d3942b0-cb6e-401c-ac01-9c95a7c75aab) Welcome to my GitHub profile! 🚀
 
-- 💡 Currently a Cybersecurity Engineering Student with a keen interest in Threat Intelligence, and Cloud & Information Security!
+- 💡 I'm currently a Cybersecurity Engineering student with a strong passion for Threat Intelligence, Cloud Security, and Information Security!
 - 🎯 My goal is to advance cybersecurity practices and stay ahead of evolving threats in the digital landscape.
-- 💻 I’m interested in Cybersecurity, Cloud & Information Security, as well as Web Development.
+- 💻 Interested in Cybersecurity, Cloud & Information Security, as well as Web Development.
 - 🌱 Proficient in C++, Python.
 
 
